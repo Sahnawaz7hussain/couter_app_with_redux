@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  height: 40%;
+  width: 50%;
+  margin: auto;
+  border: 2px solid teal;
+  border-radius: 8px;
+  margin-top: 50px;
+  box-sizing: border-box;
+  padding-bottom: 40px;
+}
+.App h1 {
+  color: crimson;
+}
+.App h2 {
+  margin-top: 30px;
+  color: blue;
+  margin-bottom: 50px;
+}
+.App button {
+  padding: 5px 16px;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 2px solid crimson;
+  color: crimson;
+  background-color: transparent;
+}
